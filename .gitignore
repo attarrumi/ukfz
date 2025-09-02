@@ -1,0 +1,5 @@
+.zig-cache
+wave_data.csv
+env
+wave_comparison.png
+zig-out
